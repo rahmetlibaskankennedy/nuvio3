@@ -812,5 +812,63 @@
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
     "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-56f657b5",
+    "title": "Sinematik Evrenler",
+    "folders": [
+      {
+        "id": "folder-1facfa40",
+        "title": "Marvel",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://www.justsaying.asia/wp-content/uploads/2014/08/marvel-logo-wallpaper-20367-hd-wallpapers.jpg",
+        "coverImageUrl": "https://giffiles.alphacoders.com/127/12700.gif",
+        "catalogSources": [
+          {
+            "type": "Marvel",
+            "addonId": "com.joaogonp.marveladdon.custom.marvel-mcu.rpdb",
+            "catalogId": "marvel-mcu"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-4a7e8995",
+        "title": "DC",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ce75266-f939-47b3-a590-80b1285c0365/dg7g77f-82b62efd-c08b-4d7c-b22b-d089a77e11c1.jpg/v1/fit/w_800,h_450,q_70,strp/hd_wallpaper_dc_new_logo_dc_comics_logo_by_louicossyme_dg7g77f-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6Ii9mLzljZTc1MjY2LWY5MzktNDdiMy1hNTkwLTgwYjEyODVjMDM2NS9kZzdnNzdmLTgyYjYyZWZkLWMwOGItNGQ3Yy1iMjJiLWQwODlhNzdlMTFjMS5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MVZ-YZE2AiroM8xu_k_QA681PBr2jkxLoLeTCzf60bE",
+        "coverImageUrl": "https://i.ibb.co/chw2zR64/dc-superhero-films-opening-introduction-t9kpwalz3ep57s9i.gif-d089a77e11c1.jpg/v1/fit/w_800,h_450,q_70,strp/hd_wallpaper_dc_new_logo_dc_comics_logo_by_louicossyme_dg7g77f-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6Ii9mLzljZTc1MjY2LWY5MzktNDdiMy1hNTkwLTgwYjEyODVjMDM2NS9kZzdnNzdmLTgyYjYyZWZkLWMwOGItNGQ3Yy1iMjJiLWQwODlhNzdlMTFjMS5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MVZ-YZE2AiroM8xu_k_QA681PBr2jkxLoLeTCzf60bE",
+        "catalogSources": [
+          {
+            "type": "DC",
+            "addonId": "com.tapframe.dcaddon.custom.dc-chronological.rpdb",
+            "catalogId": "dc-chronological"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-ba190b70",
+        "title": "Star Wars",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://images.steamusercontent.com/ugc/2258055576432666610/F333CDBF79C5E51910C86563B3D8F0D91E717B48/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "coverImageUrl": "https://uploads-ssl.webflow.com/6168ba8dd2ae854a5842be56/61bb821adfcd18676d586d9d_ezgif.com-gif-maker%20(2).gif",
+        "catalogSources": [
+          {
+            "type": "StarWars",
+            "addonId": "com.starwars.addon.custom.sw-movies-series-chronological.rpdb",
+            "catalogId": "sw-movies-series-chronological"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
   }
 ]
